@@ -1,0 +1,130 @@
+p{
+    font-size: 20px;
+}
+
+body{
+    background-color: burlywood;
+}
+
+ul{
+    border: 5px solid rgb(131, 96, 50);
+    border-radius: 15px;
+   background-color: rgb(141, 85, 33);
+}
+
+h1{ font-size: 40px;
+    color: rgb(255, 255, 255);
+   text-align: center;
+   padding-left: 15px;
+   position: relative;
+   right: 15%;
+}
+li{
+    display: inline-block;
+}
+
+li a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+
+.botao2{
+    position: absolute;
+    left: 1150px;
+    margin: 5px 5px 5px 5px;
+}
+
+.botao2:hover{
+    background-color: rgb(189, 129, 74);
+    border: 1px solid rgb(189, 129, 74);
+    border-radius: 2px;
+    color: black;
+}
+
+
+.botao3{
+    position: absolute;
+    left: 1250px;
+    margin: 5px 5px 5px 5px;
+
+    
+}
+
+.botao3:hover{
+    background-color:rgb(189, 129, 74);
+    border: 1px solid  rgb(189, 129, 74);
+    border-radius: 2px;
+    color: black;
+}
+
+
+.botao4{
+    position: absolute;
+    left: 1400px;
+    margin: 5px 5px 5px 5px;
+
+}
+
+.botao4:hover{
+    background-color: rgb(189, 129, 74);
+    border: 1px solid rgb(189, 129, 74);
+    border-radius: 2px;
+    color: black;
+}
+
+p{
+    text-align: center;
+    margin-top: 50px;
+   
+}
+
+img{
+    position: relative;
+    left: 20px;
+    top: 60px;
+    margin-left: 5px;
+    margin-top: 50px;
+}
+
+img.hover{
+    width: 2000px;
+}
+
+.botao5{
+    border: 5px solid rgb(131, 96, 50);
+    border-radius: 15px;
+   background-color: rgb(141, 85, 33);
+   display: inline-block;
+   position: relative;
+   left: 38%;
+   color: rgb(255, 255, 255);;
+}
+
+.img5{
+    position: absolute;
+    top: -1%;
+    left: 250px;
+    width: 60px;
+    height: 60px;
+}
+
+.img1{
+    position:absolute;
+    left: 
+    1000px;
+}
+
+.img2{
+position: absolute;
+left: 487px;
+}
+
+.img3{
+position: absolute;
+}
+
+.img1, .img2, .img3{
+    position: absolute;
+    top: 90%;
+}

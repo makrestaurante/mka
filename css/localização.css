@@ -1,0 +1,43 @@
+body{
+    background-color: burlywood;
+}
+
+.img1{
+    position: relative;
+    bottom: 600px;
+    left: 850px;
+}
+
+.img2{
+position: relative;
+left: 350px;
+bottom: -50px;
+border-radius: 10px;
+}
+
+p{
+    text-align: center;
+    font-size: 50px;
+}
+
+li{
+text-align: center;
+font-size: 35px;
+list-style-type: none;
+}
+
+.botao3{
+color: black;
+}
+
+.botao3:hover{
+        background-color: rgb(148, 91, 38);
+        color: black;
+        text-decoration: none;
+        
+}
+
+.li a{
+    text-decoration: none;
+   color: black;
+}

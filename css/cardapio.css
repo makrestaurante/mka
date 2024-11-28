@@ -1,0 +1,166 @@
+body{
+    background-color: burlywood;
+}
+
+p, h1{
+    text-align: center;
+    margin-bottom: 10px;
+    
+}
+ul, li{
+    text-align: center;
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
+
+.lista1{
+   position: absolute;
+   bottom: 40%;
+   left: 450px;
+}
+
+.lista2{
+   position: absolute;
+   bottom: -25%;
+   left: 550px;
+}
+
+.lista3{
+   position: absolute;
+   bottom: -65%;
+   left: 530px;
+}
+.lista4{
+   position:absolute;
+   bottom: -420px;
+   left: -50px;
+}
+
+li{
+    font-size: 25px;
+
+}
+
+a{
+   position: absolute;
+   bottom: -180%;
+   left: 150px;
+   text-decoration: none;
+   color: black;
+}
+
+.img1{
+    position: relative;
+    bottom: 20px;
+    border-radius: 10px;
+}
+
+.img2{
+    position: relative;
+    left: -305px;
+    border-radius: 10px;
+    bottom: -387px;
+}
+ .img3{
+    position: relative;
+    bottom: 20px;
+    border-radius: 10px;
+    right: -590px;
+
+ }
+
+ .img4{
+    position: relative;
+    bottom: -592px;
+    border-radius: 10px;
+    right: 912px;
+ }
+
+ .img5{
+    position: relative;
+    bottom: 20px;
+    border-radius: 10px;
+
+
+ }
+
+ .img6{
+    position: relative;
+    bottom: -185px;
+    border-radius: 10px;
+    right: -892px;
+    
+ }
+
+ .img7{
+    position: relative;
+    bottom: -390px;
+    border-radius: 10px;
+    left: 590px;
+ }
+
+ .img8{
+    position: relative;
+    bottom: 20px;
+    border-radius: 10px;
+    right: -285px;
+
+ }
+
+ .img9{
+
+   position: relative;
+   bottom: -389px;
+   border-radius: 10px;
+
+
+}
+
+.img10{
+   position: relative;
+   border-radius: 10px;
+   bottom: -390px;
+   left: 895px;
+
+}
+
+.img11{
+   position: relative;
+   border-radius: 10px;
+   bottom: -595px;
+   left: -608px;
+
+}
+
+.img12{
+   position: relative;
+   border-radius: 10px;
+   bottom: -595px;
+   left: 290px;
+
+
+}
+
+.img13{
+   position: absolute;
+   left: 58%;
+   bottom: 90%;
+   width: 60px;
+   height: 60px;
+
+}
+ 
+.img14{
+   position: relative;
+   border-radius: 10px;
+   bottom: -595px;
+}
+ 
+.img15{
+   position: relative;
+   border-radius: 10px;
+   left: 898px;
+   bottom: -595px;
+}

@@ -1,0 +1,13 @@
+body{
+    background-color: burlywood;
+}
+
+img{
+    position:relative;
+    bottom: 350px;
+    left: 60px;
+}
+a{
+    text-decoration: none;
+   color: black;
+}
